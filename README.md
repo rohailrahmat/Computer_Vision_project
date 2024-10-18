@@ -9,21 +9,8 @@ Image Extraction: The project extracts facial images from the dataset and prepro
 Expression Detection: The trained model classifies the expressions (e.g., happy, sad, angry).
 Model Accuracy: Achieved an accuracy rate of 65%.
 Dataset
-The dataset used for this project is sourced from Kaggle. It contains labeled images of human faces representing various expressions. The dataset is preprocessed to fit the model's requirements before training.
+The dataset used for this project is sourced from Kaggle. It contains labeled images of human faces representing various expressions. The dataset is preprocessed to fit the model's requirements before training
 
-Installation
-To run this project, you'll need to follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/Facial-Expression-Detection.git
-Install dependencies: Navigate to the project folder and install the required Python packages using pip:
-
-bash
-Copy code
-pip install -r requirements.txt
 Run the project: If you want to train the model or extract images from the dataset, simply run the provided Jupyter notebook:
 
 bash
